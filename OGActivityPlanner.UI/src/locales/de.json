@@ -1,0 +1,38 @@
+{
+  "messages": {
+    "accessCode_Title": "Zugangscode erforderlich",
+    "accessCode_SubTitle": "Der Zugangscode sichert den exklusiven Zugang für Mitglieder und Freunde der OGs. Er muss durch monatlichen Besuch dieser Seite aufrechterhalten werden.",
+    "accessCode_Info": "Ich habe keinen Zugangscode!",
+    "accessCode_InfoDesc1": "Du bist ein Mitglied oder Freund der OGs?",
+    "accessCode_InfoDesc2": "Dein Zugang ist abgelaufen?",
+    "accessCode_InfoDesc3": "Kontaktiere den dicken Jan für einen neuen!"
+  },
+  "common": {
+    "search": "Suchen",
+    "filter": "Filtern",
+    "sort": "Sortieren"
+  },
+  "labels": {
+    "confirm": "Bestätigen",
+    "accessCode": "Zugangscode",
+    "activities": "Aktitiväten",
+    "votes": "Abstimmungen",
+    "suggestions": "Vorschläge",
+    "options": "Optionen"
+  },
+  "validation": {
+    "generic_necessary": "Erforderlich",
+    "numbers_only": "Nur Nummern erlaubt"
+  },
+  "security": {
+    "PermissionUserManagementTitle": "",
+    
+    
+    "RoleDescriptionAdmin": "",
+    "RoleDescriptionWeekPlanner": "",
+    "RoleDescriptionOriginal": "",
+    "RoleDescriptionFirend": "",
+    "RoleDescriptionGuest": ""
+
+  }
+}
